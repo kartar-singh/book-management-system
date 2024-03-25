@@ -1,0 +1,16 @@
+[
+    {
+        "title": "The Hitchhiker's Guide to the Galaxy",
+        "author": "Douglas Adams",
+        "ISBN": 1234,
+        "status": "borrowed",
+        "borrow_date": null
+    },
+    {
+        "title": "harry potter",
+        "author": "kartar",
+        "ISBN": 6841,
+        "status": "borrowed",
+        "borrow_date": null
+    }
+]

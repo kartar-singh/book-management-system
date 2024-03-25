@@ -1,0 +1,128 @@
+[
+    {
+        "name": "kartar",
+        "ISBN": "6209",
+        "status": "borrowed",
+        "borrow_date": "2024-03-25",
+        "return_date": "2024-04-09"
+    },
+    {
+        "name": "kartar",
+        "ISBN": "4069",
+        "status": "borrowed",
+        "borrow_date": "2024-03-25",
+        "return_date": "2024-04-09"
+    },
+    {
+        "name": "kartar",
+        "ISBN": "4069",
+        "status": "borrowed",
+        "borrow_date": "2024-03-25",
+        "return_date": "2024-04-09"
+    },
+    {
+        "name": "assa",
+        "ISBN": "4069",
+        "status": "borrowed",
+        "borrow_date": "2024-03-25",
+        "return_date": "2024-04-09"
+    },
+    {
+        "name": "karta",
+        "ISBN": "6209",
+        "status": "borrowed",
+        "borrow_date": "2024-03-25",
+        "return_date": "2024-04-09"
+    },
+    {
+        "name": "kartar",
+        "ISBN": "4069",
+        "status": "borrowed",
+        "borrow_date": "2024-03-25",
+        "return_date": "2024-04-09"
+    },
+    {
+        "name": "asjf",
+        "ISBN": "5555",
+        "status": "borrowed",
+        "borrow_date": "2024-03-25",
+        "return_date": "2024-04-09"
+    },
+    {
+        "name": "wwww",
+        "ISBN": "5555",
+        "status": "borrowed",
+        "borrow_date": "2024-03-25",
+        "return_date": "2024-04-09"
+    },
+    {
+        "name": "ssss",
+        "ISBN": "5555",
+        "status": "borrowed",
+        "borrow_date": "2024-03-25",
+        "return_date": "2024-04-09"
+    },
+    {
+        "name": "ssss",
+        "ISBN": "4069",
+        "status": "borrowed",
+        "borrow_date": "2024-03-25",
+        "return_date": "2024-04-09"
+    },
+    {
+        "name": "kartar",
+        "ISBN": "6841",
+        "status": "borrowed",
+        "borrow_date": "2024-03-25",
+        "return_date": "2024-04-09"
+    },
+    {
+        "name": "www",
+        "ISBN": "6841",
+        "status": "borrowed",
+        "borrow_date": "2024-03-25",
+        "return_date": "2024-04-09"
+    },
+    {
+        "name": "kartar",
+        "ISBN": "4069",
+        "status": "borrowed",
+        "borrow_date": "2024-03-25",
+        "return_date": "2024-04-09"
+    },
+    {
+        "name": "lll",
+        "ISBN": "1234",
+        "status": "borrowed",
+        "borrow_date": "2024-03-25",
+        "return_date": "2024-04-09"
+    },
+    {
+        "name": "kartar",
+        "ISBN": "1234",
+        "status": "borrowed",
+        "borrow_date": "2024-03-25",
+        "return_date": "2024-04-09"
+    },
+    {
+        "name": "karatr",
+        "ISBN": "6841",
+        "status": "borrowed",
+        "borrow_date": "2024-03-25",
+        "return_date": "2024-04-09"
+    },
+    {
+        "name": "lll",
+        "ISBN": "1234",
+        "status": "borrowed",
+        "borrow_date": "2024-03-25",
+        "return_date": "2024-04-09"
+    },
+    {
+        "name": "sss",
+        "ISBN": "6841",
+        "status": "borrowed",
+        "borrow_date": "2024-03-25",
+        "return_date": "2024-04-09"
+    }
+]
